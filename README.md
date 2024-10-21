@@ -1,2 +1,2 @@
 # APB002RepositorioTeste
-Repositório para as aulas de Aprendizagem
+Repositório para as aulas de Aprendizagem e testes em sala!
